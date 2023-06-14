@@ -24,9 +24,11 @@ First, pairs with a total difference of 0 are matched, and the data for these pa
 Next, pairs with a total difference of 1 are matched, and this process is repeated up to a maximum total difference of 150.
 
 ## **Participation**
-**Heterosexual group with 2,304 individuals, consisting of 1,403 men and 901 women. Pairing will begin with male-female pairs, and male-male pairing will be done for any remaining individuals within the group.
-**Gay group with 193 individuals.
-**Lesbian group with 77 individuals.
+Heterosexual group with 2,304 individuals, consisting of 1,403 men and 901 women. Pairing will begin with male-female pairs, and male-male pairing will be done for any remaining individuals within the group.
+
+Gay group with 193 individuals.
+
+Lesbian group with 77 individuals.
 
 ## **Data source**
 We collected data from the suvey. The data include private information. Hence, we can not provide the data.
